@@ -1,5 +1,7 @@
 #Chrome 77
 
+Скачиваите только opera , chromium , chrome браузерами firefox не умеет скачивать с mega.nz и после 2 гигабайт уходит в краш.
+
 Download Chrome 77 https://mega.nz/#!cGpFUAiL!W8Zi3iKwmdfjsj5t8p6AqtUIn83NAT1yPgWmcwZQuBQ
 Download setting Chrome 77 https://mega.nz/#!pbwAgapa!osXUh2HI0LXZBaDa4hTv4et8QPqHhtr04aTGfQ02pp0
 
