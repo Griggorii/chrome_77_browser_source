@@ -5,6 +5,8 @@
 Download Chrome 77 https://mega.nz/#!cGpFUAiL!W8Zi3iKwmdfjsj5t8p6AqtUIn83NAT1yPgWmcwZQuBQ
 Download setting Chrome 77 https://mega.nz/#!pbwAgapa!osXUh2HI0LXZBaDa4hTv4et8QPqHhtr04aTGfQ02pp0
 
+wim это архивы и откроются обычным архиваторами
+
 Компилировал сначала на системе версии 19.04 после ошибки перекинул весь проект 
 с его то весом гигабайт в 20 на систему 16.04 там докомпилировалось.
 
